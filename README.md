@@ -66,8 +66,8 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSahalImran&show_icons=true&theme=tokyonight" alt="Sahal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSahalImran&theme=tokyonight" alt="Sahal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSahalImran&show_icons=true&layout=compact&theme=tokyonight" alt="Sahal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSahalImran&layout=compact&theme=tokyonight" alt="Sahal's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSahalImran&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
