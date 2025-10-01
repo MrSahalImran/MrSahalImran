@@ -1,6 +1,9 @@
 <!-- Banner Animation -->
+<div align="center">
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer" alt="Typing SVG" />
 
+</div>
 <h1 align="center">Hi 👋, I'm Sahal Imran</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -49,18 +52,8 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)
 
-**Other:**  
-REST APIs, HTML5, CSS3, Responsive Design, CI/CD, Agile & Scrum
-
 ---
 
-## 🚀 Major Projects
-
-- [Portfolio Website](https://portfolio-sahal-imran.vercel.app) – Personal portfolio built with Next.js and deployed on Vercel.
-- [Project Name](https://github.com/MrSahalImran/your-project) – Description of project, technologies used.
-- [Open Source Contribution](https://github.com/MrSahalImran) – Contributions to various web development and DevOps repositories.
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -90,11 +83,13 @@ REST APIs, HTML5, CSS3, Responsive Design, CI/CD, Agile & Scrum
 
 ## 🔗 Connect with Me
 
-<p>
-  <a href="https://portfolio-sahal-imran.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sahalimran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sahalimran@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-sahalimran-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sahal-imran.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahalimran/)
+[![Email](https://img.shields.io/badge/Email-sahalimran.pro@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahalimran.pro@gmail.com)
+
+</div>
 
 ---
 
