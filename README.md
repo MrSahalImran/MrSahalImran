@@ -37,9 +37,10 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 **Languages & Frameworks:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
@@ -48,17 +49,17 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)
 
 ---
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrSahalImran&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=MrSahalImran&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -66,9 +67,9 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSahalImran&show_icons=true&layout=compact&theme=tokyonight" alt="Sahal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSahalImran&layout=compact&theme=tokyonight" alt="Sahal's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSahalImran&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrSahalImran&show_icons=true&layout=compact&theme=tokyonight" alt="Sahal's GitHub Stats" width="390" height="195" />
+  <img src="https://streak-stats.demolab.com?user=MrSahalImran&theme=tokyonight" alt="Sahal's GitHub Streak" width="390" height="195" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrSahalImran&layout=compact&theme=tokyonight" alt="Top Languages" width="390" height="195" />
 </p>
 
 ---
@@ -96,5 +97,5 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrSahalImran&label=Profile%20views&color=0e75b6&style=flat" alt="MrSahalImran" /> </p>
 
 <!--
-**MrSahalImran/MrSahalImran** is a special repository for your GitHub profile README.  
+**MrSahalImran/MrSahalImran** is a special repository for your GitHub profile README.
 -->
