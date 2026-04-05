@@ -49,7 +49,7 @@ I'm a detail-oriented web developer with a strong background in building scalabl
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="30" />
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white&style=flat)
